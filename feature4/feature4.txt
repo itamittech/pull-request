@@ -1,0 +1,1 @@
+In this feature we will test the protected branch with 1 review passed and then the branch will be eligible for pull request
